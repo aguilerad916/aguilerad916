@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Aguilera</h1>
-- 👨‍💻 All of my projects are available at [https://portfolio-website-eight-sand.vercel.app/](https://portfolio-website-eight-sand.vercel.app/)
+-  👨‍💻 All of my projects are available at [https://portfolio-website-eight-sand.vercel.app/](https://portfolio-website-eight-sand.vercel.app/)
 
-- 📫 How to reach me **aguilerad916@gmail.com**
+-  📫 How to reach me **aguilerad916@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iCLoeCStlC0I6Uy9GQS8hOUDbfPeluRe_0r77njrGtA/edit?usp=sharing](https://docs.google.com/document/d/1iCLoeCStlC0I6Uy9GQS8hOUDbfPeluRe_0r77njrGtA/edit?usp=sharing)
+-  📄 Know about my experiences [https://docs.google.com/document/d/1iCLoeCStlC0I6Uy9GQS8hOUDbfPeluRe_0r77njrGtA/edit?usp=sharing](https://docs.google.com/document/d/1iCLoeCStlC0I6Uy9GQS8hOUDbfPeluRe_0r77njrGtA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
